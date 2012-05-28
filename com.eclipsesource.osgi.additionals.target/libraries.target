@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.6"?>
+
+<target name="OSGi Additionals" sequenceNumber="1">
+<locations>
+<location path="${project_loc:com.eclipsesource.osgi.additionals.target}/bundles" type="Directory"/>
+<location path="${eclipse_home}" type="Profile"/>
+</locations>
+</target>
