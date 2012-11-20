@@ -2,7 +2,7 @@
 <feature
       id="com.eclipsesource.osgi.additionals"
       label="OSGi Target Additionals"
-      version="1.3.0.qualifier"
+      version="1.4.0.qualifier"
       provider-name="EclipseSource">
 
    <description url="http://www.example.com/description">
@@ -208,6 +208,20 @@
 
    <plugin
          id="com.github.kevinsawicki.http-request.source"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.easytesting.fest.assertions"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.easytesting.fest.assertions.source"
          download-size="0"
          install-size="0"
          version="0.0.0"
