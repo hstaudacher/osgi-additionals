@@ -2,7 +2,7 @@
 <feature
       id="com.eclipsesource.osgi.additionals"
       label="OSGi Target Additionals"
-      version="1.5.0.qualifier"
+      version="1.7.0.qualifier"
       provider-name="EclipseSource">
 
    <description url="http://www.example.com/description">
@@ -228,14 +228,14 @@
          unpack="false"/>
 
    <plugin
-         id="org.aspectj"
+         id="org.aspectj.weaver"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
 
    <plugin
-         id="org.aspectj.source"
+         id="com.mysql.jdbc"
          download-size="0"
          install-size="0"
          version="0.0.0"
