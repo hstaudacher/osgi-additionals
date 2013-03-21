@@ -2,7 +2,7 @@
 <feature
       id="com.eclipsesource.osgi.additionals"
       label="OSGi Target Additionals"
-      version="1.12.0.qualifier"
+      version="1.13.0.qualifier"
       provider-name="EclipseSource">
 
    <description url="http://www.example.com/description">
