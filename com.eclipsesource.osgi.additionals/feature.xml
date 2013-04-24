@@ -2,7 +2,7 @@
 <feature
       id="com.eclipsesource.osgi.additionals"
       label="OSGi Target Additionals"
-      version="1.14.0.qualifier"
+      version="1.15.0.qualifier"
       provider-name="EclipseSource">
 
    <description url="http://www.example.com/description">
@@ -236,27 +236,6 @@
 
    <plugin
          id="com.mysql.jdbc"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="com.sun.jna"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="com.jacob"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="com.sun.jna.platform"
          download-size="0"
          install-size="0"
          version="0.0.0"
