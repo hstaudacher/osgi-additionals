@@ -2,7 +2,7 @@
 <feature
       id="com.eclipsesource.osgi.additionals"
       label="OSGi Target Additionals"
-      version="1.17.0.qualifier"
+      version="1.18.0.qualifier"
       provider-name="EclipseSource">
 
    <description url="http://www.example.com/description">
@@ -292,6 +292,20 @@
 
    <plugin
          id="com.springsource.org.apache.juli.extras"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.felix.configadmin"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.felix.configadmin.source"
          download-size="0"
          install-size="0"
          version="0.0.0"
