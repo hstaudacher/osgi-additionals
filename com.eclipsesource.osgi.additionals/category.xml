@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.eclipsesource.osgi.additionals_1.21.0.qualifier.jar" id="com.eclipsesource.osgi.additionals" version="1.21.0.qualifier">
+   <feature url="features/com.eclipsesource.osgi.additionals_1.23.0.qualifier.jar" id="com.eclipsesource.osgi.additionals" version="1.23.0.qualifier">
       <category name="com.eclipsesource.osgi.additionals"/>
    </feature>
    <category-def name="com.eclipsesource.osgi.additionals" label="OSGi Target Additionals"/>
