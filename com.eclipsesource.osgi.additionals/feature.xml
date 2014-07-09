@@ -2,7 +2,7 @@
 <feature
       id="com.eclipsesource.osgi.additionals"
       label="OSGi Target Additionals"
-      version="1.25.0.qualifier"
+      version="1.27.0.qualifier"
       provider-name="EclipseSource">
 
    <description url="http://www.example.com/description">
@@ -292,6 +292,20 @@
 
    <plugin
          id="com.eclipsesource.rest.client.driver.source"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.github.spullara.mustache.java.compiler"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.github.spullara.mustache.java.compiler.source"
          download-size="0"
          install-size="0"
          version="0.0.0"
