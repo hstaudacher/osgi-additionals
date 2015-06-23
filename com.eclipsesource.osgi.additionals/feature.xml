@@ -2,7 +2,7 @@
 <feature
       id="com.eclipsesource.osgi.additionals"
       label="OSGi Target Additionals"
-      version="1.39.0.qualifier"
+      version="1.40.0.qualifier"
       provider-name="EclipseSource">
 
    <description url="http://www.example.com/description">
@@ -488,6 +488,34 @@
 
    <plugin
          id="com.eclipsesource.fongo-all.source"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="thumbnailator"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="thumbnailator.source"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="pngtastic"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="pngtastic.source"
          download-size="0"
          install-size="0"
          version="0.0.0"
