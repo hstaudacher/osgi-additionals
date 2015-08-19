@@ -2,7 +2,7 @@
 <feature
       id="com.eclipsesource.osgi.additionals"
       label="OSGi Target Additionals"
-      version="1.45.0.qualifier"
+      version="1.46.0.qualifier"
       provider-name="EclipseSource">
 
    <description url="http://www.example.com/description">
@@ -312,20 +312,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.mongodb.mongo-java-driver"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.mongodb.mongo-java-driver.source"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="com.braintreegateway"
          download-size="0"
          install-size="0"
@@ -600,6 +586,20 @@
 
    <plugin
          id="yuicompressor.source"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.mongodb.mongodb-driver-all"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.mongodb.mongodb-driver-all.source"
          download-size="0"
          install-size="0"
          version="0.0.0"
